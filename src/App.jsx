@@ -71,6 +71,7 @@ function App() {
           </form>
         </Paper>
       </Box>
+      <></>
     </Center>
   );
 }
